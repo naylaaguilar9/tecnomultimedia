@@ -2,7 +2,7 @@
 //------------Tecno Multimedia 1------------------
 //----------------Comision 2----------------------
 //---------Juan Lutz - Nayla Aguilar---------------
-//------Entrega Juan Lutz - Legajo 88196/6--------
+//------Entrega Nayla Belen Aguilar - Legajo 88106/6--------
 //LINK a video:
 
 Juego tl;
