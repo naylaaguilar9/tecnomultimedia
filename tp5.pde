@@ -1,3 +1,8 @@
+//------------------TP 5---------------------------
+//------------Tecno Multimedia 1------------------
+//----------------Comision 2----------------------
+//---------Juan Lutz - Nayla Aguilar---------------
+//Link youtube:
 Juego tl;
 int balasGlobal = 0;
 
