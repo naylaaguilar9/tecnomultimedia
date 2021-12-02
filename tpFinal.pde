@@ -1,8 +1,9 @@
+import processing.sound.*;
 Aventura necesitoUnaMano;
 
 void setup() {
   size(800, 600);
-  necesitoUnaMano = new Aventura();
+  necesitoUnaMano = new Aventura(this);
 }
 
 void draw() {
