@@ -1,3 +1,10 @@
+//------------------TP 5---------------------------
+//------------Tecno Multimedia 1------------------
+//----------------Comision 2----------------------
+//---------Juan Lutz - Nayla Aguilar---------------
+//------Entrega Nayla Aguilar - Legajo 88106/6--------
+//LINK a video:
+
 import processing.sound.*;
 Aventura necesitoUnaMano;
 
