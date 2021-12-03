@@ -3,7 +3,7 @@
 //----------------Comision 2----------------------
 //---------Juan Lutz - Nayla Aguilar---------------
 //------Entrega Nayla Aguilar - Legajo 88106/6--------
-//LINK a video:
+//LINK a video: https://youtu.be/Qs6YqFhVcGs
 
 import processing.sound.*;
 Aventura necesitoUnaMano;
